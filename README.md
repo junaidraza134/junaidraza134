@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidraza134&label=Profile%20views&color=0e75b6&style=flat" alt="junaidraza134" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Java**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python,Cpp,FrontEnd**
+- 💬 Ask me about **Python,Cpp,DSA,JAVA,C,PowerBi,Microsoft Excel,Linux**
 
 - 📫 How to reach me **junaidraza1560@gmail.com**
 
