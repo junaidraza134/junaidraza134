@@ -187,7 +187,6 @@ AI & Machine Learning Enthusiast | B.Tech CSE Student | Competitive Programmer
 
 Bachelor of Technology (Computer Science & Engineering)
 
-CGPA: **6.5**
 
 ---
 
